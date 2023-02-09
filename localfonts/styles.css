@@ -1,5 +1,5 @@
 @font-face {
-  src: url(fonts/BluebirdAlishanty.ttf);
+  src: url(./fonts/BluebirdAlishanty.ttf);
   font-family: bluebird;
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 @font-face {
-  src: url(fonts/HopelessPlace.ttf);
+  src: url(./fonts/HopelessPlace.ttf);
   font-family: HopelessPlace;
 }
 
@@ -23,7 +23,7 @@ h2 {
 }
 
 @font-face {
-  src: url(fonts/Achafexp.ttf);
+  src: url(./fonts/Achafexp.ttf);
   font-family: Achafexp;
 }
 
